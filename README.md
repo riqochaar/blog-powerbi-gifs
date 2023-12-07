@@ -1,3 +1,3 @@
 # blog-powerbi-gifs
 
-Data (.csv) and model (.pbix) related to my blog titled: "Pretty Power BI: Adding GIFs".
+Data (.csv), model (.pbix) and aesthetic elements (.gif & .png) related to my blog titled: "Pretty Power BI: Adding GIFs".
